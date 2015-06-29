@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29.06.2015, 12:45:48
+    Author     : abolbocean
+*/
+
+body{
+     background-color: pink;
+     margin:0;
+     padding: 0;
+     text-align: center;
+     
+}
+div{
+        display:inline-block;
+        text-align: center;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #fff;
+        text-decoration: none;
+        margin:0 auto;
+
+}
+
+
+button{
+    width: 100px;
+    height: 100px;
+}
+
+button:hover{
+    background-color: yellowgreen;
+}
